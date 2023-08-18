@@ -1,0 +1,9 @@
+# dependencies
+/config.env
+/yarn.lock
+/node_modules
+/package.json
+/package-lock.json
+/controllers
+/routes
+/models
